@@ -1,8 +1,14 @@
 {
-	"folders":
+	/*"folders":
 	[
 		{
 			"path": "."
 		}
-	]
+	]*/
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\Sharleny\\Desktop\\Gabriel\\Projeto Portifólio\\Projeto Portifólio"
+		}
+	],
 }
