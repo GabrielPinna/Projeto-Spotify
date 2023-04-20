@@ -9,7 +9,7 @@
 
 ### Acesse o projeto pelo link:
 
-https://main.d1zxxq89qau2u.amplifyapp.com/
+https://main.d27ia4q6xytqj9.amplifyapp.com/
 
 
 ![](https://komarev.com/ghpvc/?username=Projeto-Spotify)
